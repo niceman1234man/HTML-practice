@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    color: chartreuse;
+    font-weight: bold;
+}
+h1{
+    color: brown;
+    background-color:green;
+}
+#he{
+    color: blue;
+    background-color:yellow;
+}
+#t{
+    color: aqua;
+    background-color: red;
+}
+.cla{
+    color: azure;
+    background-clor:chartreuse;
+}
